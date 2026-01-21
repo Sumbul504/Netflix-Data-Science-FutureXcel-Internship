@@ -1,32 +1,28 @@
-# Netflix Data Cleaning – Data Science Internship (Week 1)
+# Netflix Data Science Project
 
-This repository contains the Week 1 task of my Data Science Internship, focused on advanced data cleaning and preprocessing of a real-world dataset.
+This repository contains a complete data science workflow
+performed on a Netflix dataset as part of a Data Science Internship.
 
-## Dataset
-- Netflix Movies and TV Shows Dataset
-- Source: Kaggle
-- Records: 8,000+
+## Project Structure
 
-## Tasks Performed
-- Dataset loading and initial diagnostics
-- Missing value analysis (tabular and visual)
-- Imputation using Mean, Mode, and KNN
-- Data type correction and date parsing
-- Outlier detection and treatment using IQR
-- Final cleaned dataset export
+### Week 1 – Data Understanding
+- Initial dataset exploration
+- Understanding columns and data types
 
-## Files in this Repository
-- `Week1_Data_Cleaning.ipynb` – Jupyter Notebook with full code
-- `cleaned_netflix_data.csv` – Final cleaned dataset
-- `Week1_Advanced_Data_Cleaning_Report.pdf` – Detailed report with screenshots
+### Week 2 – Data Cleaning & Visualization
+- Handling missing values
+- Data type correction
+- Basic visualizations
+- Cleaned dataset generation
 
-## Tools & Libraries
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+### Week 3 – Exploratory Data Analysis (EDA)
+- Univariate analysis
+- Bivariate and multivariate analysis
+- Correlation analysis
+- Insight generation
 
-## Internship Program
-FutureXcel – Data Science Internship
+## Tools Used
+Python, Pandas, NumPy, Matplotlib, Seaborn
+
+## Internship
+Data Science Internship – FutureXcel
