@@ -21,7 +21,7 @@ performed on a Netflix dataset as part of a Data Science Internship.
 - Correlation analysis
 - Insight generation
 
-- ## Week 4 – Feature Engineering & Data Transformation
+ ## Week 4 – Feature Engineering & Data Transformation
 - Created new features from existing variables
 - Converted categorical features into numerical format
 - Applied scaling to numerical features
